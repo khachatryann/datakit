@@ -67,4 +67,4 @@ plain functions over pandas DataFrames and are tested directly.
 
 ## License
 
-[MIT](LICENSE) © 2026 Anton Khachatryan
+[MIT](LICENSE) © 2026 Anton
