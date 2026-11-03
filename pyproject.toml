@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "datakit"
-version = "0.1.0"
+version = "0.2.0"
 description = "Quick analysis of CSV measurement data: stats, curve fitting, plots, cleaning"
 readme = "README.md"
 license = { file = "LICENSE" }
